@@ -160,6 +160,9 @@ h1, h2, h3, h4, h5, h6 {
 .hero__img {
   margin-right: calc((100vw - 1240px) / -2);
 }
+@media (max-width: 1270px) {
+  margin-right: -15px;
+}
 .hero__img img {
   width: 100%;
 }
